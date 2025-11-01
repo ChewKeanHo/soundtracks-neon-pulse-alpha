@@ -1,21 +1,33 @@
-# [MUSIC_TITLE_HERE] | (Holloway) Chew, Kean Ho's Soundtracks
+# Neon Pulse Alpha | (Holloway) Chew, Kean Ho's Soundtracks
 
 [![chewkeanho-soundtracks](Thumbnails/video-thumbnail.jpg)](#)
 
-[MARKETING DESCRIPTION HERE]
+After getting sufficient control mastery, let's explore the "pop" genre side
+of things. Here's a passable song means for sing-along rather than rave
+dancing like the one in the club party. The focus is on singing and lyrics.
+sing-along lyrics are in the sub-titles.
 
 ```
-#electronicmusic #soundtrack
+#electronicmusic #soundtrack #pop #rnb #femalevocal
 
-DO a $(stat TO/FILE) and then remove unnecessary filesystem info HERE
+  File: Audios/Neon-Pulse-Alpha.mp3
+  Size: 10309632        Blocks: 20136      IO Block: 4096   regular file
+Device: 253,2   Inode: 40767233    Links: 1
+Access: (0644/-rw-r--r--)  Uid: ( 1000/      u0)   Gid: ( 1000/      u0)
+Access: 2025-11-01 06:50:56.119390283 +0800
+Modify: 2025-11-01 06:51:35.811527428 +0800
+Change: 2025-11-01 06:51:35.811527428 +0800
+ Birth: 2025-07-20 11:53:34.474222590 +0800
 
-On Published Date: YYYY-MM-DD
-On YouTube since : YYYY-MM-DD
+On Published Date: 2025-05-31
+On YouTube since : 2025-05-31
 ```
 
-[YouTube](#) |
+[YouTube](https://www.youtube.com/watch?v=sBT1sIIC1dU) |
 [Agreed UDIO Terms of Service](.internals/terms-of-services/Udio-Terms-of-Service.pdf) |
-[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf)
+[Agreed UDIO Privacy Policy](.internals/privacy-policy/Udio-Privacy-Policy.pdf) |
+[Agreed Vizzy Terms of Service](.internals/terms-of-services/Vizzy-Terms-of-Service.pdf) |
+[Agreed Vizzy Privacy Policy](.internals/privacy-policy/Vizzy-Privacy-Policy.pdf)
 
 
 
@@ -36,9 +48,9 @@ follows:
 
 ```
 --------------------------------------------------------------------------------
-Title  : [MUSIC_TITLE_HERE]
+Title  : Neon Pulse Alpha
 Artist : (Holloway) Chew, Kean Ho + UDIO
-SKU    : chewkeanho-soundtracks-[SKU_HERE]
+SKU    : chewkeanho-soundtracks-neon-pulse-alpha
 License: (Holloway) Chew, Kean Ho's Proprietary License
 Procure: Coming Soon
 --------------------------------------------------------------------------------
